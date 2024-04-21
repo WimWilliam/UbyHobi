@@ -1,0 +1,23 @@
+
+  {
+    "user":[
+      { "username":"wilhelm", "password":"w23w32", "foto":"https://randomuser.me/api/portraits/men/28.jpg", "email":"wilem@gmail.com", "nohp":"082982643213" },
+      { "username":"fritzia", "password":"f32g23", "foto":"https://randomuser.me/api/portraits/women/16.jpg", "email":"fritzia@gmail.com", "nohp":"081467865343" },
+      { "username":"Cecilia", "password":"icha25", "foto":"https://randomuser.me/api/portraits/women/12.jpg", "email":"mcaecilia@gmail.com", "nohp":"082465780564" }
+    ],
+    "Hobby":
+    [
+      { "nama":"Play with dogs ", "deskripsi":"Berikan waktu luang untuk mengajak anjing peliharaan anda untuk bermain di lingkungan sekitar.", "logo":"https://th.bing.com/th/id/OIP.55h9utBULdqy7FZO0MfpfwHaE8?w=278&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7"}
+    
+    ],
+    "Baca Hobby":
+    [
+      {
+        "nama":"Play with dogs ",
+        "penulis":"wilhelm",
+        "isiHobby":"Dengan waktu luang yang anda berikan, maka anjing peliharaan anda akan merasa diperhatikan dan menjadi dekat dengan anda.adsadadadadasfasdfaf"
+      }
+    ]
+  }
+
+
